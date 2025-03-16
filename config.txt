@@ -1,0 +1,3 @@
+example.org.dao.DaoImpl
+example.org.metier.MetierImpl
+example.org.example.org.ext.DaoIpmlV2
