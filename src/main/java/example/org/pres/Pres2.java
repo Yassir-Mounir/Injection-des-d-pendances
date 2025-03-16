@@ -1,9 +1,7 @@
 package example.org.pres;
-
 import example.org.dao.iDao;
 import example.org.metier.MetierImpl;
 import example.org.metier.iMetier;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.lang.reflect.Method;
